@@ -7,7 +7,7 @@
 body{
     background: rgb(226, 180, 166);
     height: 420px;
-    border: 2px solid red; /*Pongo el borde para que sea capaz de distinguir los contenedores, pero en este caso no lo restaría del height*/
+    border: 2px solid red; /*Pongo el borde para que sea capaz de distinguir los contenedores, pero en este caso no lo restaría*/
 }
 div{
     height: 400px;
